@@ -1,0 +1,15 @@
+/* navbar */
+.navbar-right {
+  width: auto;
+}
+
+.navbar-logo {
+  font-size: 18px;
+  color: #111111;
+}
+
+.navbar-menu a {
+  color: #111111;
+}
+
+/* form */
